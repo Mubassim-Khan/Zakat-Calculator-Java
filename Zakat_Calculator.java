@@ -8,7 +8,7 @@ public class Zakat_Calculator {
         System.out.print("Do you have savings not used for more than a year? (Y/N): ");
         String decider = scanner.next();
 
-        String No = "N";
+        String No = "N"; 
         String Yes = "Y";
 
         double totalZakat = 0;
